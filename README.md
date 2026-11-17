@@ -5,7 +5,7 @@ Este repositorio contiene los archivos de traducción al español de **TsukiReBu
 
 
 ## 📊 Estado del Proyecto
-* **Progreso actual:** ~11,000 / 43,960 líneas traducidas (25% completado).
+* **Progreso actual:** ~22,000 / 43,960 líneas traducidas (50% completado).
 * **Estado:** En desarrollo activo (en proceso de traducción y revisión de estilo).
 
 ## 🛠️ Metodología y Herramientas
